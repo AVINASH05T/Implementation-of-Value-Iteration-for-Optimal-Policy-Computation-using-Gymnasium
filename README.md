@@ -1,5 +1,7 @@
 # Implementation-of-Value-Iteration-for-Optimal-Policy-Computation-using-Gymnasium
 
+## NAME : AVINASH T
+## REG NO : 212223230026
 ---
 ## Aim
 
